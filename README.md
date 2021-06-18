@@ -15,3 +15,7 @@
 
 # 참고 교재
 > 리액트를 다루는 기술
+
+# 확인URL
+> https://hjsung-pub.github.io/Todo-List02/
+> 
